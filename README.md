@@ -1,2 +1,2 @@
-# Jo-o-Miguel-e-Vinicius
+JMiguel&Vinicius
 Aqui nós treinamos os códigos de programação
